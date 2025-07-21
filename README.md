@@ -31,3 +31,4 @@ Vite (or Next.js if used)
 Jest & React Testing Library (for testing)
 
 📸 Preview
+<img width="1343" height="769" alt="Screenshot 2025-07-21 093209" src="https://github.com/user-attachments/assets/9f83309d-42ba-49c6-b65f-0748ca6447a4" />
