@@ -1,12 +1,33 @@
-# React + Vite
+📅 Recurring Date Picker
+A custom recurring date picker component built with React and Tailwind CSS, inspired by TickTick’s recurrence feature. This component allows users to set up flexible recurring events with daily, weekly, monthly, and yearly options.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+✅ Select frequency: Daily, Weekly, Monthly, Yearly
 
-Currently, two official plugins are available:
+🔁 "Every X days/weeks/months/years" support
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📅 Select specific weekdays (e.g., Mon, Wed, Fri)
 
-## Expanding the ESLint configuration
+🗓️ Complex patterns like "Second Tuesday of every month"
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📆 Set start and optional end date
+
+👁️ Mini Calendar Preview with recurring highlights
+
+♻️ Clean and reusable component structure
+
+✅ Fully tested (unit + integration)
+
+ Tech Stack
+ 
+React
+
+Tailwind CSS
+
+React Context API (for state management)
+
+Vite (or Next.js if used)
+
+Jest & React Testing Library (for testing)
+
+📸 Preview
